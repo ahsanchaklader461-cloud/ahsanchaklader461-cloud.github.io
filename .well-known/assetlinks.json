@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.ahsanchaklader461_cloud.twa",
+    "sha256_cert_fingerprints": ["AC:37:03:0B:58:DE:B9:CA:B2:79:B8:22:CE:EF:23:E3:31:0E:26:11:71:1E:BE:34:C0:B5:FD:69:D7:3D:3E:93"]
+  }
+}]
